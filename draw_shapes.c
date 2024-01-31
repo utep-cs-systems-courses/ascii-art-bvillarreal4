@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "draw.h"
-
+//test
 /* Prints a size x size square whose left col is at startCol */
 void print_square(int leftCol, int size)
 {
